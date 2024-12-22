@@ -1,0 +1,29 @@
+{
+    "dotnet.defaultSolution": "axus.sln",
+    "cSpell.words": [
+        "Avalonia",
+        "axus",
+        "Bootstrapper",
+        "ciphertext",
+        "Debouncer",
+        "Decrypter",
+        "deleter",
+        "Encrypter",
+        "ffprobe",
+        "Lanczos",
+        "loglevel",
+        "Magick",
+        "Newtonsoft",
+        "nokey",
+        "noprint",
+        "Omni",
+        "Omnius",
+        "Reconfig",
+        "Remoting",
+        "Resampler",
+        "Resizer",
+        "rpfs",
+        "Testkit",
+        "vframes"
+    ]
+}
