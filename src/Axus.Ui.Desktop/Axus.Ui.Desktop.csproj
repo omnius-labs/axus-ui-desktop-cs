@@ -19,16 +19,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\refs\core-cs\src\Core.Avalonia\Core.Avalonia.csproj" />
+    <ProjectReference Include="..\..\refs\core-cs\src\Core.Base\Core.Base.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Collections\Core.Collections.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Cryptography\Core.Cryptography.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Streams\Core.Streams.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Net\Core.Net.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.RocketPack\Core.RocketPack.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Serialization\Core.Serialization.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Base\Core.Base.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Utils\Core.Utils.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Avalonia\Core.Avalonia.csproj" />
-    <ProjectReference Include="..\Axus.Components\Axus.Components.csproj" />
+    <ProjectReference Include="..\..\refs\core-cs\src\Core.Streams\Core.Streams.csproj" />
   </ItemGroup>
 
   <ItemGroup>
