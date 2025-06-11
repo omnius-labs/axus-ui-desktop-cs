@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Collections\Core.Collections.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Cryptography\Core.Cryptography.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Streams\Core.Streams.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Net\Core.Net.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.RocketPack\Core.RocketPack.csproj" />

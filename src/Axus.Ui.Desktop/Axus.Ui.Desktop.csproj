@@ -25,6 +25,7 @@
     <ProjectReference Include="..\..\refs\core-cs\src\Core.RocketPack\Core.RocketPack.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Serialization\Core.Serialization.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Streams\Core.Streams.csproj" />
+    <ProjectReference Include="..\Axus.Client\Axus.Client.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,5 +1,5 @@
 {
-    "dotnet.defaultSolution": "axus.sln",
+    "dotnet.defaultSolution": "axus.slnx",
     "cSpell.words": [
         "Avalonia",
         "axus",
