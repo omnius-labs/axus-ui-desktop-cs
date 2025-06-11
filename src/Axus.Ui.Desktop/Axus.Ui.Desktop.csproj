@@ -29,6 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Avalonia.Fonts.Inter" />
     <PackageReference Include="Avalonia.Controls.DataGrid" />
     <PackageReference Include="Avalonia.Controls.ItemsRepeater" />
     <PackageReference Include="Avalonia.Desktop" />
@@ -52,6 +53,8 @@
     <PackageReference Include="YamlDotNet" />
     <PackageReference Include="FluentAvalonia.ProgressRing" />
     <PackageReference Include="System.Linq.Async" />
+    <PackageReference Include="R3" />
+    <PackageReference Include="R3Extensions.Avalonia" />
   </ItemGroup>
 
   <ItemGroup>

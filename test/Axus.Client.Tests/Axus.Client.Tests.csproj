@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RootNamespace>Axus.Service</RootNamespace>
+    <RootNamespace>Axus.Client</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Testkit\Core.Testkit.csproj" />
-    <ProjectReference Include="..\..\src\Axus.Service\Axus.Service.csproj" />
+    <ProjectReference Include="..\..\src\Axus.Client\Axus.Client.csproj" />
   </ItemGroup>
 
   <ItemGroup>

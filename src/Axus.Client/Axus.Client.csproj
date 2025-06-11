@@ -12,12 +12,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\refs\core-cs\src\Core.Omnikit\Core.Omnikit.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Collections\Core.Collections.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Streams\Core.Streams.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Net\Core.Net.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.RocketPack\Core.RocketPack.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Serialization\Core.Serialization.csproj" />
-    <ProjectReference Include="..\..\refs\core-cs\src\Core.Text\Core.Text.csproj" />
     <ProjectReference Include="..\..\refs\core-cs\src\Core.Base\Core.Base.csproj" />
   </ItemGroup>
 
